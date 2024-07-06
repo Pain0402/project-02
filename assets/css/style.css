@@ -497,6 +497,7 @@
     top: 160px;
     left: 70%;
     background: url(../images/circle-dec.png) center center no-repeat;
+    display: none;
 }
 .section-eight .content .num {
     font-size: 36px;
